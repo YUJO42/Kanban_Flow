@@ -1,0 +1,21 @@
+.top-header {
+  background-color: #ffeeaf;
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-header-column {
+  position: relative;
+  padding: 5px 20px;
+}
+
+.top-header .top-header-icon {
+  color: #36484c;
+}
+
+.top-header-text-title {
+  color: #36484c;
+}
